@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=be55fa&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9900ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORD!+🌏+Meu+nome+é+Julia+Emanuele+Mette.;No+momento,+eu+estou+estudando+Java!🖥️+;Sou+gaduada+em+Biomedicina+pela+Furb.;Bem-vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9a9cc&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORD!+🌏+Meu+nome+é+Julia+Emanuele+Mette.;No+momento,+eu+estou+estudando+Java!🖥️+;Sou+gaduada+em+Biomedicina+pela+Furb.;Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 
- 🚀 <i>Oi pessoal!  Sempre gostei muito de tecnologia e, quando mais nova, sempre estava buscando aprender mais. Passei por uma fase onde me dediquei à minha formação, como Biomédica, e agora estou começando na de TI.
+ 💻 <i>Oi pessoal!  Sempre gostei muito de tecnologia e, quando mais nova, sempre estava buscando aprender mais. Passei por uma fase onde me dediquei à minha formação, como Biomédica, e agora estou começando na de TI.</i>
 
-🔍 Sempre estou explorando novas tecnologias e conceitos, acompanhado sempre de bastante estudo. Atualmente, em constante evolução, estou determinada a aprerfeiçoar minhas habilidades, amentar o meu potencial técnico e poder contribuir em futuros projetos. Todos os desafios propostos entregam uma oportunidade de aprendizado e crescimento. </i>
+💻 <i>Sempre estou explorando novas tecnologias e conceitos, acompanhado sempre de bastante estudo. Atualmente, em constante evolução, estou determinada a aprerfeiçoar minhas habilidades, amentar o meu potencial técnico e poder contribuir em futuros projetos. Todos os desafios propostos entregam uma oportunidade de aprendizado e crescimento. </i>
 
-🌟 <b>Se você está procurando por alguém empenhado e que está disposto a aceitar desafios, estou pronta para colaborar e criar soluções de alta qualidade com você. Vamos construir o futuro, linha por linha!</b>
+💻 <b>Se você está procurando por alguém empenhado e que está disposto a aceitar desafios, estou pronta para colaborar e criar soluções de alta qualidade com você. Vamos construir o futuro, linha por linha!</b>
 
 Conecte-se comigo e vamos explorar as possibilidades juntos.
 
@@ -22,6 +22,8 @@ Conecte-se comigo e vamos explorar as possibilidades juntos.
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamette&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamette&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+&nbsp;
 
 &nbsp;
 
