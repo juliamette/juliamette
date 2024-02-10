@@ -33,7 +33,7 @@ Conecte-se comigo e vamos explorar as possibilidades juntos.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;         
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-computador-desktop_114360-12153.jpg?w=740&t=st=1707528215~exp=1707528815~hmac=4f4f3370dcd22cac5a9954725a4b94dd58224335d32e284c16fe1961be2a499b" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Studying in this moment:
 
