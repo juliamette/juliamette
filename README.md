@@ -22,6 +22,10 @@ Conecte-se comigo e vamos explorar as possibilidades juntos.
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamette&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamette&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+&nbsp;
+
+ <img src="https://ouch-cdn2.icons8.com/FogV9mKHqNCj1ejhPZX8RJkBSF73Axxak3EC9roUmno/rs:fit:368:442/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjI4/L2NkZWM4YjU0LTIw/ZDgtNGVmNS05ZDM3/LWQ2OTUzYTdmNjUz/YS5zdmc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Codes">
  
 
 ## My Skills
@@ -33,7 +37,7 @@ Conecte-se comigo e vamos explorar as possibilidades juntos.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;         
 
 
-<img src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-computador-desktop_114360-12153.jpg?w=740&t=st=1707528215~exp=1707528815~hmac=4f4f3370dcd22cac5a9954725a4b94dd58224335d32e284c16fe1961be2a499b" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 #### Studying in this moment:
 
